@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @abhishek-kolekar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-abhishek-kolekar/abhishek-kolekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in to give contribution in web 3.0, blockchain and software field.
+- 🌱 I’m currently doing B-tech [TY] in Government College of Engineering, Karad
+- 💞️ I’m looking to collaborate on projects based on blockchain, NFTs, whichever contribution to metaverse.
+- 📫 You can reach me kolekarraj09@gmail.com || LinkedIn :- https://www.linkedin.com/in/abhishek-kolekar/
